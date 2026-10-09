@@ -28,7 +28,8 @@ Clone the repository and run the installation script:
 
 ```bash
 git clone https://github.com
-cd my-mint-rice
+cd Nature-rise-Linux-Mint
+
 chmod +x install.sh
 ./install.sh
 ```
